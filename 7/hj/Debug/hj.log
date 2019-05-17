@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\nastya\desktop\hj\hj\source.c(122): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\nastya\desktop\hj\hj\source.c(65): warning C4101: buf: неиспользованная локальная переменная
+  hj.vcxproj -> C:\Users\Nastya\Desktop\hj\Debug\hj.exe
+  hj.vcxproj -> C:\Users\Nastya\Desktop\hj\Debug\hj.pdb (Partial PDB)

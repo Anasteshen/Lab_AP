@@ -1,0 +1,4 @@
+Develop a function that defines the number of words and syllables in a given character string.
+Composition count in lower case letters.
+Using the given function, determine the average number of syllables in one word of the given file.
+Finally, delete the last two lines.
